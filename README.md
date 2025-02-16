@@ -1,2 +1,2 @@
 # Iris_Deployment_Project-
-Data_Science
+deployed app link - [https://iris-deployment-khushal1.streamlit.app/](https://iris-deployment-khushal1.streamlit.app/)
